@@ -22,7 +22,7 @@ while(True):
         b=int(input("Enter 2nd number:- "))
         c=a/b
         d=a%b
-        print("Qutient = ",int(c))
+        print("Quotient = ",int(c))
         print("Remainder = ",d) 
     elif temp == 5 :
         print("Invalid")
